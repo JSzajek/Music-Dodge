@@ -6,8 +6,10 @@ Even allowing users to add their own audio to the game.
 ## Getting Started
 
 Current there is no installer included within the current build version. Instead it is as simple
-as downloading the zip folder and unzipping it in the desired location. Afterwhich, locating the 
+as downloading the build folder into the desired location. Afterwhich, locating the 
 *Music_Dodge.exe* within the folder and running it to run the game.
+
+The most recent build of the game is [Version 1.2](/_Builds/Music_Dodge_1.2/)
 
 ## Features
  * Included with the initial build are royalty free music clips for each level
@@ -44,7 +46,7 @@ as downloading the zip folder and unzipping it in the desired location. Afterwhi
 
 Recent Versions
  * Version 1.2 - Minor bug fixes
- * Initial version 1.0
+ * Version 1.0 - Initial version
 
 ## Authors
 
